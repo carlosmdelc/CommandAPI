@@ -106,3 +106,10 @@ D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\CommandAPI.deps
 D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\CommandAPI.runtimeconfig.json
 D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\CommandAPI.runtimeconfig.dev.json
 D:\API\CommandAPISolution\test\CommandAPI.Tests\obj\Debug\net5.0\CommandAPI.Tests.csproj.AssemblyReference.cache
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\API\CommandAPISolution\test\CommandAPI.Tests\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
