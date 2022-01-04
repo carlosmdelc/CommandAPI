@@ -31,3 +31,5 @@ D:\API\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\Npgsql.EntityFramework
 D:\API\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\API\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.AssemblyReference.cache
 D:\API\CommandAPISolution\src\CommandAPI\obj\Debug\net5.0\CommandAPI.csproj.CopyComplete
+D:\API\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.dll
+D:\API\CommandAPISolution\src\CommandAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
